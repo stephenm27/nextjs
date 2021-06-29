@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
+        <title>XXXX Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -19,6 +19,7 @@ export default function Home() {
           <code className={styles.code}>pages/index.js</code>
         </p>
 
+		BLAH BLAH BLAH
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h3>Documentation &rarr;</h3>
